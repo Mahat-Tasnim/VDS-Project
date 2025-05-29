@@ -51,3 +51,18 @@ Which football teams improved the most in recent years?
 *Ensure data files are present.
 
 *Run all cells to generate all plots.
+
+Question3 
+ How important is possession to win games?
+
+ *merged files match_possesion ,match_goals ,match csv files 
+ *averaged the elapse for each teams in all matches
+ *determined win/lose/draw results on  matches
+ *possesions were aggrigated into categories
+ 
+ Visualisations
+ bar charts overal relationship of possession and winning
+ dual bar charts showing the differences in the winning\lossing\drawing  rates of teams under different possessions
+ heat map the frequences of winning with high and low possession
+ stacked bars for the differences in winning rates agnaist possession of the teams in matchs
+ 
